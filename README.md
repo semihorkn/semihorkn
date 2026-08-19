@@ -36,20 +36,6 @@ Alongside my industry work, I am pursuing a **PhD in Computer Education and Inst
 - Generative AI and agent-based content workflows
 - IoT, coding, electronics, and AI literacy education
 
-## Featured projects
-
-### [IoTfy Code Studio](https://github.com/semihorkn/iotfy-code-studio)
-
-A bilingual Three.js coding game for children, featuring missions, gamification, and a badge inventory.
-
-### [IoTfy Circuits Studio](https://github.com/semihorkn/iotfy-circuits-studio)
-
-A bilingual interactive circuit simulation studio that helps children learn electronics through hands-on experiments.
-
-### [Machine Learning](https://github.com/semihorkn/machine_learning)
-
-A growing collection of machine learning studies and practical experiments.
-
 ## Expertise
 
 **Leadership & product:** Technology strategy, AI product development, digital transformation, R&D leadership, product strategy, team building, organisational design, and go-to-market execution.
