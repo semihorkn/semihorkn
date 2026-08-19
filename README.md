@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Cardiff, United Kingdom ·
+  United Kingdom ·
   <a href="https://www.linkedin.com/in/semihorkun/">LinkedIn</a>
 </p>
 
